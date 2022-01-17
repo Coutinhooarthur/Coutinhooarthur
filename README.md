@@ -3,7 +3,7 @@
 
 
 - 👨‍💻 No momento trabalhando com Front-End, porém, espero ser um desenvolvedor full-stack a curto prazo
-- 🚀 Atualmente aprimorando conhecimentos em HTML
+- 🚀 Atualmente aprimorando conhecimentos em CSS
 - 👨‍🎓 Estudante de Engenharia de Software
 
 <div align="center">
